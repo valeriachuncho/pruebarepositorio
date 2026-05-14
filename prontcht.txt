@@ -1,0 +1,7 @@
+Nombre ia Chatgpt
+cuenta free
+pronts
+Desarrolla un programa en Java utilizando programación concurrente para determinar cuántas veces aparece una palabra específica dentro de una matriz de datos de tipo strin 3 *3. se debe implemnetar hilos ya sea mediante la clase thread o interfaz runnable , al momento que va a finalizar el hilo principal tiene que esperar que todos los hilos finalicen su trabajo y ahi mostrar el resultado final ,además cada hilo debe recibir sus datos necesario y asi mismo debe devolver su conteo parcial ten en cuenta que el jhilo principal tiene la responsabilidad de sumar todos los resultados y mostra el tolta ,por ultimo tengo que tener un manejo adecuado de excepciones
+
+
+mi codigo es el siguiente ayudame a ver como puedo mejorar e implementar los requerimientos pedidos
